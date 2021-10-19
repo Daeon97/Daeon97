@@ -2,7 +2,7 @@
 I’m Engels Immanuel, an Android native engineer and a Flutter developer. I have 4+ years of experience writing Android native apps both in Java and Kotlin and 6+ months of experience writing apps with Flutter.
 
 - 🔭 I’m currently working on a content management mobile app for my portfolio site to enable me update content on my portfoilio anytime and anywhere
-- 🌱 I’m currently learning Node.js to be able to write Cloud Functions for Firebase
+- 🌱 I’m currently trying to perfect my Node.js skills to be able to write Cloud Functions for Firebase more efficiently
 - 👯 As a Computer Scientist I’m looking to explore other fields of Computer Science especially AI research and embedded systems engineering
 - 🤔 I’m looking for help with BAAS's that support the Desktop platforms
 - 💬 Ask me about Java for Android, Kotlin for Android and Flutter
