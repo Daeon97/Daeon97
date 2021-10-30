@@ -1,11 +1,11 @@
 ### Hi there 👋
-I’m Engels Immanuel, an Android native engineer and a Flutter developer. I have 4+ years of experience writing Android native apps both in Java and Kotlin and 6+ months of experience writing apps with Flutter.
+I’m Engels Immanuel, an Android Native and Flutter developer. I have 4 years experience building Android apps with both Java and Kotlin and almost 1 year experience building mobile, web and desktop apps with Flutter
 
-- 🔭 I’m currently working on a content management mobile app for my portfolio site to enable me update content on my portfoilio anytime and anywhere
-- 🌱 I’m currently trying to perfect my Node.js skills to be able to write Cloud Functions for Firebase more efficiently
+- 🔭 I’m currently working on a content management mobile app for my portfolio site so I can update content on my portfoilio without needing to refactor my code
+- 🌱 I’m currently trying to perfect my Node.js skills so I can write Cloud Functions for Firebase more efficiently
 - 👯 As a Computer Scientist I’m looking to explore other fields of Computer Science especially AI research and embedded systems engineering
 - 🤔 I’m looking for help with BAAS's that support the Desktop platforms
-- 💬 Ask me about Java for Android, Kotlin for Android and Flutter
+- 💬 Ask me about Java for Android, Kotlin for Android, Flutter and Node.js for Cloud Functions for Firebase
 - 📫 How to reach me: [Twitter - https://twitter.com/evil_onyxx_jr], [LinkedIn - https://www.linkedin.com/in/engels-immanuel-9b807317a/], [Porfolio Site - https://engels-immanuel.web.app/], [Facebook - https://web.facebook.com/onyxX.daeon], [Instagram - https://www.instagram.com/immanuelengels/]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’ve been a fan of the Mortal Kombat franchise. I love Sci-fi movies alot and i'm a big fan of the Marvel Cinematic Universe. I love exploring new environments and traveling to new places
