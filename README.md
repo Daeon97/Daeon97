@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 I’m Engels Immanuel, an Android Native and Flutter developer. I have 5 years experience building Android apps with both Java and Kotlin and 1 year experience building mobile, web and desktop apps with Flutter
 
 - 🔭 I’m currently working on a content management mobile app for my portfolio site so I can update content on my portfoilio without needing to refactor my code
