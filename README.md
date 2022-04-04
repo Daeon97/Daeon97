@@ -3,7 +3,7 @@ I’m Engels Immanuel, an Android Native and Flutter developer. I have 5 years e
 
 - 🔭 I’m currently working on a content management mobile app for my portfolio site so I can update content on my portfoilio without needing to refactor my code
 - 🌱 I’m currently trying to perfect my Node.js skills so I can write Cloud Functions for Firebase more efficiently
-- 👯 As a Computer Scientist I’m looking to explore other fields of Computer Science especially the field of Artificial Intelligence
+- 👯 As a Computer Scientist I’m looking to explore other fields of Computer Science especially Artificial Intelligence and Robotics
 - 🤔 I’m looking for help with BAAS's that support the Desktop platforms
 - 💬 Ask me about Java for Android, Kotlin for Android, Flutter and Node.js for Cloud Functions for Firebase
 - 📫 How to reach me: [Twitter - https://twitter.com/evil_onyxx_jr], [LinkedIn - https://www.linkedin.com/in/engels-immanuel-9b807317a/], [Porfolio Site - https://engels-immanuel.web.app/], [Facebook - https://web.facebook.com/onyxX.daeon], [Instagram - https://www.instagram.com/immanuelengels/]
