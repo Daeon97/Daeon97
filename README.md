@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-I’m Engels Immanuel, a mobile application developer with over 5 years experience building mobile apps with Java, Kotlin and Flutter
+I’m Engels Immanuel, a Mobile Application Developer with over 5 years experience building mobile apps with Java, Kotlin and Flutter
 
 - 🔭 I'm currently building mobile apps that interact and communicate with IoT devices with Flutter
 - 🌱 I’m learning Typescript so i can write more stable JavaScript code at compile time in a Cloud Functions environment. Besides, i think Typescript is awesome
