@@ -35,7 +35,7 @@ and my apps on Playstore
 - <a href="https://play.google.com/store/apps/details?id=com.engelsimmanuel.ican" target="_blank" rel="noreferrer">ican_ezd</a>
 
 <h1>
-💼 Skills
+👨🏿‍💻 Skills
 </h1>
 
 Nowadays, I mostly build mobile application softwares with Flutter, occasionally dabble in server(less) side with Node.js and Typescript and have some experience writing Cloud Functions for Firebase and AWS Lambda Functions
@@ -100,7 +100,11 @@ Others
 ![JSON](https://a11ybadges.com/badge?logo=json)
 
 <h1>
-📈 GitHub Stats
+📈 Stats
 </h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daeon97&theme=tokyonight) &emsp; &emsp; ![Engels Immanuel Github Stats](https://github-readme-stats.vercel.app/api?username=Daeon97&&show_icons=true&tile_color=ffffff&com_color=bb2acf&&text_color=daf7dc&bg_color=191919)
+<div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evil_onyxx_jr/0fc4bb63-97e5-48af-b5be-9a26436c3d20.png" /></a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daeon97&&show_icons=true&tile_color=ffffff&com_color=bb2acf&&text_color=daf7dc&bg_color=191919" style="position: relative;"/>
+</div>
