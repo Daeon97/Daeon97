@@ -104,7 +104,7 @@ Others
 </h1>
 
 <div align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evil_onyxx_jr/f8e3ac76-7a3f-4348-8bf2-b3ff2386703e.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evil_onyxx_jr/95b5d828-4172-4f00-ac98-316adca865a1.png" /></a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Daeon97&&show_icons=true&tile_color=ffffff&com_color=bb2acf&&text_color=daf7dc&bg_color=191919" style="position: relative;"/>
 </div>
