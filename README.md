@@ -38,7 +38,7 @@ and two of my apps on Playstore
 👨🏿‍💻 Skills
 </h1>
 
-I transitioned from Android Native with Java and Kotlin to Flutter a few years back and its been a while I built a native app because I love Flutter. I build mobile application softwares with Flutter nowadays and sometimes apply my years of experience in Android Native to writing custom Android platform specific code in Flutter apps, occasionally dabble in server(less) side with Node.js and Typescript and have some experience writing Cloud Functions for Firebase and AWS Lambda Functions
+I transitioned from Android Native with Java and Kotlin to Flutter a few years back and its been a while I built a native app because I love Flutter. I build mobile application softwares with Flutter nowadays and sometimes apply my years of experience in Android Native to write custom Android platform specific code in Flutter apps. I also occasionally dabble in server(less) side with Node.js and Typescript and have some experience writing Cloud Functions for Firebase and AWS Lambda Functions
 
 <h3>
 Programming Languages, Runtimes
