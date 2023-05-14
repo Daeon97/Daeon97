@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m <a href="https://engels-immanuel.web.app/" target="_blank" rel="noreferrer">Engels Immanuel</a>
+Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am <a href="https://engels-immanuel.web.app/" target="_blank" rel="noreferrer">Engels Immanuel</a>
 </h3>
 
 <div align="center">
@@ -11,13 +11,13 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 I love learning and building
 </h2>
 
-I'm a passionate Mobile Developer who loves learning, exploring other technologies outside of my domain and building solutions. I find the concept of problem solving fascinating and i'm constantly improving on my skills. I am a strong advocate of Object Oriented Programming, Architectural Patterns, Strongly Typed Languages, Test Automation and Test Driven Development, Continuous Integration and Contiuous Testing, Interactive User Interfaces and hardwork
+I am a passionate Mobile Developer who loves learning, exploring other technologies outside of my domain and building solutions. I find the concept of problem solving fascinating and i'm constantly improving on my skills. I am a strong advocate of Object Oriented Programming, Architectural Patterns, Strongly Typed Languages, Test Automation and Test Driven Development, Continuous Integration and Contiuous Testing, Interactive User Interfaces and hardwork
 
 <h1>
 🔭 Projects
 </h1>
 
-I'm currently building mobile apps that interact and communicate with Robots and IoT devices with Flutter. Here are some of my top recent open source projects
+I am currently building mobile apps that interact and communicate with Robots and IoT devices with Flutter. Here are some of my top recent open source projects
 - <a href="https://github.com/Daeon97/nim_track.git" target="_blank" rel="noreferrer">nim_track</a>
 - <a href="https://github.com/Daeon97/iot_interface_with_aws_iot_core.git" target="_blank" rel="noreferrer">iot_interface_with_aws_iot_core</a>
 - <a href="https://github.com/Daeon97/iot-core-to-dynamo-db-function.git" target="_blank" rel="noreferrer">iot-core-to-dynamo-db-function</a>
@@ -30,7 +30,7 @@ some of my top least recent open source projects
 - <a href="https://github.com/Daeon97/CardInfoFinder.git" target="_blank" rel="noreferrer">CardInfoFinder</a>
 - <a href="https://github.com/Daeon97/send-email-function.git" target="_blank" rel="noreferrer">send-email-function</a>
 
-and my apps on Playstore
+and two of my apps on Playstore
 - <a href="https://play.google.com/store/apps/details?id=com.engelsimmanuel.icanszd" target="_blank" rel="noreferrer">ICANSZD</a>
 - <a href="https://play.google.com/store/apps/details?id=com.engelsimmanuel.ican" target="_blank" rel="noreferrer">ican_ezd</a>
 
@@ -38,7 +38,7 @@ and my apps on Playstore
 👨🏿‍💻 Skills
 </h1>
 
-Nowadays, I mostly build mobile application softwares with Flutter, occasionally dabble in server(less) side with Node.js and Typescript and have some experience writing Cloud Functions for Firebase and AWS Lambda Functions
+I transitioned from Android Native with Java and Kotlin to Flutter a few years back and its been a while I built a native app because I love Flutter. I build mobile application softwares with Flutter nowadays and sometimes apply my years of experience in Android Native to writing custom Android platform specific code in Flutter apps, occasionally dabble in server(less) side with Node.js and Typescript and have some experience writing Cloud Functions for Firebase and AWS Lambda Functions
 
 <h3>
 Programming Languages, Runtimes
@@ -104,7 +104,7 @@ Others
 </h1>
 
 <div align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evil_onyxx_jr/0fc4bb63-97e5-48af-b5be-9a26436c3d20.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evil_onyxx_jr/f8e3ac76-7a3f-4348-8bf2-b3ff2386703e.png" /></a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Daeon97&&show_icons=true&tile_color=ffffff&com_color=bb2acf&&text_color=daf7dc&bg_color=191919" style="position: relative;"/>
 </div>
