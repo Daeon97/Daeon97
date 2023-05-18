@@ -3,8 +3,9 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/engels-immanuel-9b807317a/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Engels Immanuel | LinkedIn" width="100px"/></a>
-  <a href="https://twitter.com/evil_onyxx_jr/"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Engels Immanuel | Twitter" width="100px"/></a>
+  <a href="https://wakatime.com/@08841e85-e450-4a09-96fb-714404fdc9b3"><img align="center" src="https://wakatime.com/badge/user/08841e85-e450-4a09-96fb-714404fdc9b3.svg" alt="Engels Immanuel | Wakatime"/></a>
+  <a href="https://www.linkedin.com/in/engels-immanuel-9b807317a/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="Engels Immanuel | LinkedIn" width="80px"/></a>
+  <a href="https://twitter.com/evil_onyxx_jr/"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white" alt="Engels Immanuel | Twitter" width="70px"/></a>
 </div>
 
 <h2 align="center">
