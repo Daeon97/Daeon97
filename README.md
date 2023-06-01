@@ -19,11 +19,10 @@ I am a passionate Mobile Developer who loves learning, exploring other technolog
 </h1>
 
 I am currently building mobile apps that interact and communicate with Robots and IoT devices with Flutter. Here are some of my top recent open source projects
-- <a href="https://github.com/Daeon97/b_health.git" target="_blank" rel="noreferrer">b_health</a>
-- <a href="https://github.com/Daeon97/bus_trackr.git" target="_blank" rel="noreferrer">bus_trackr</a>
 - <a href="https://github.com/Daeon97/nim_track.git" target="_blank" rel="noreferrer">nim_track</a>
 - <a href="https://github.com/Daeon97/iot_interface_with_aws_iot_core.git" target="_blank" rel="noreferrer">iot_interface_with_aws_iot_core</a>
 - <a href="https://github.com/Daeon97/iot-core-to-dynamo-db-function.git" target="_blank" rel="noreferrer">iot-core-to-dynamo-db-function</a>
+- <a href="https://github.com/Daeon97/iot-core-to-dynamo-db-function-2.git" target="_blank" rel="noreferrer">iot-core-to-dynamo-db-function-2</a>
 - <a href="https://github.com/Daeon97/mecanum_wheel_drivetrain_controller.git" target="_blank" rel="noreferrer">mecanum_wheel_drivetrain_controller</a>
 
 some of my top least recent open source projects
@@ -32,6 +31,13 @@ some of my top least recent open source projects
 - <a href="https://github.com/Daeon97/TruckChecklist.git" target="_blank" rel="noreferrer">TruckChecklist</a>
 - <a href="https://github.com/Daeon97/CardInfoFinder.git" target="_blank" rel="noreferrer">CardInfoFinder</a>
 - <a href="https://github.com/Daeon97/send-email-function.git" target="_blank" rel="noreferrer">send-email-function</a>
+
+some of my other open source projects
+- <a href="https://github.com/Daeon97/b_health.git" target="_blank" rel="noreferrer">b_health</a>
+- <a href="https://github.com/Daeon97/bus_trackr.git" target="_blank" rel="noreferrer">bus_trackr</a>
+- <a href="https://github.com/Daeon97/smart_alert.git" target="_blank" rel="noreferrer">smart_alert</a>
+- <a href="https://github.com/Daeon97/air_monitor.git" target="_blank" rel="noreferrer">air_monitor</a>
+- <a href="https://github.com/Daeon97/water_purification.git" target="_blank" rel="noreferrer">water_purification</a>
 
 and two of my apps on Playstore
 - <a href="https://play.google.com/store/apps/details?id=com.engelsimmanuel.icanszd" target="_blank" rel="noreferrer">ICANSZD</a>
