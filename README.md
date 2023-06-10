@@ -19,6 +19,7 @@ I am a passionate Mobile Developer who loves learning, exploring other technolog
 </h1>
 
 I am currently building mobile apps that interact and communicate with Robots and IoT devices with Flutter. Here are some of my top recent open source projects
+- <a href="https://github.com/Daeon97/i_clap.git" target="_blank" rel="noreferrer">i_clap</a>
 - <a href="https://github.com/Daeon97/nim_track.git" target="_blank" rel="noreferrer">nim_track</a>
 - <a href="https://github.com/Daeon97/iot_interface_with_aws_iot_core.git" target="_blank" rel="noreferrer">iot_interface_with_aws_iot_core</a>
 - <a href="https://github.com/Daeon97/iot-core-to-dynamo-db-function.git" target="_blank" rel="noreferrer">iot-core-to-dynamo-db-function</a>
@@ -33,6 +34,7 @@ some of my top least recent open source projects
 - <a href="https://github.com/Daeon97/send-email-function.git" target="_blank" rel="noreferrer">send-email-function</a>
 
 some of my other open source projects
+- <a href="https://github.com/Daeon97/i_detect.git" target="_blank" rel="noreferrer">i_detect</a>
 - <a href="https://github.com/Daeon97/b_health.git" target="_blank" rel="noreferrer">b_health</a>
 - <a href="https://github.com/Daeon97/bus_trackr.git" target="_blank" rel="noreferrer">bus_trackr</a>
 - <a href="https://github.com/Daeon97/smart_alert.git" target="_blank" rel="noreferrer">smart_alert</a>
