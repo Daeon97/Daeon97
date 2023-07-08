@@ -12,7 +12,7 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 I love learning and building
 </h2>
 
-I am a passionate Mobile Developer who loves learning, exploring other technologies outside of my domain and building solutions. I find the concept of problem solving fascinating and i'm constantly improving on my skills. I am a strong advocate of Object Oriented Programming, Architectural Patterns, Strongly Typed Languages, Test Automation and Test Driven Development, Continuous Integration and Contiuous Testing, Interactive User Interfaces and hardwork
+I am a passionate Mobile Developer who loves learning, exploring other technologies outside of my domain and building solutions. I find the concept of problem solving fascinating and i'm constantly improving on my skills. I am a strong advocate of Object Oriented Programming, Architectural Patterns, Strongly Typed Languages, Test Automation and Test Driven Development, Continuous Integration and Continuous Testing, Interactive User Interfaces and hardwork
 
 <h1>
 🔭 Projects
