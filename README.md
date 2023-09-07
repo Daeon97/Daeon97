@@ -19,7 +19,7 @@ I am a passionate Mobile Developer who loves learning, exploring other technolog
 </h1>
 
 I am currently building mobile apps that interact and communicate with Robots and IoT devices with Flutter. Here are some of my top recent open source projects
-- <a href="https://github.com/Daeon97/i_clap.git" target="_blank" rel="noreferrer">i_clap</a>
+- <a href="https://github.com/Daeon97/vsss.git" target="_blank" rel="noreferrer">vsss</a>
 - <a href="https://github.com/Daeon97/nim_track.git" target="_blank" rel="noreferrer">nim_track</a>
 - <a href="https://github.com/Daeon97/iot_interface_with_aws_iot_core.git" target="_blank" rel="noreferrer">iot_interface_with_aws_iot_core</a>
 - <a href="https://github.com/Daeon97/iot-core-to-dynamo-db-function.git" target="_blank" rel="noreferrer">iot-core-to-dynamo-db-function</a>
