@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am <a href="https://engels-immanuel.web.app/" target="_blank" rel="noreferrer">Engels Immanuel</a>
+Hello there 👋🏿 Welcome to my GitHub profile. I am <a href="https://engels-immanuel.web.app/" target="_blank" rel="noreferrer">Engels Immanuel</a>
 </h3>
 
 <div align="center">
