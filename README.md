@@ -18,7 +18,10 @@ I am a passionate Mobile Developer who loves learning, exploring other technolog
 🔭 Projects
 </h1>
 
-I am currently building mobile apps that interact and communicate with Robots and IoT devices with Flutter. Here are some of my top recent open source projects
+I am currently mostly building mobile apps that interact and communicate with Robots and IoT devices with Flutter. Here are some of my top recent open source projects
+- <a href="https://github.com/Daeon97/agora-token-server-function" target="_blank" rel="noreferrer">agora-token-server-function</a>
+- <a href="https://github.com/Daeon97/vid_call" target="_blank" rel="noreferrer">vid_call</a>
+- <a href="https://github.com/Daeon97/lambda-api" target="_blank" rel="noreferrer">lambda-api</a>
 - <a href="https://github.com/Daeon97/superbot.git" target="_blank" rel="noreferrer">superbot</a>
 - <a href="https://github.com/Daeon97/vsss.git" target="_blank" rel="noreferrer">vsss</a>
 - <a href="https://github.com/Daeon97/nim_track.git" target="_blank" rel="noreferrer">nim_track</a>
